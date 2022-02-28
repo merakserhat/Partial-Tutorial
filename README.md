@@ -5,6 +5,7 @@
 ## 🎮 Examples
 
 ### Demo
+<img alt="Demo 1" src="https://github.com/merakserhat/Partial-Tutorial/blob/main/readme_assets/example.gif?raw=true" height="500"> 
 
 
 ## 📒 Documentation
