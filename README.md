@@ -10,7 +10,7 @@
 
 ## 📒 Documentation
 
-### Installation !!!!! This package has not been published yet
+### Installation
 Add `partial_tutorial` to your `pubspec.yaml`:
 
 ```
