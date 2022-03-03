@@ -1,10 +1,11 @@
 name: partial_tutorial
 description: A new Flutter package.
-version: 0.0.1
-homepage:
+version: 0.0.2
+homepage: https://github.com/merakserhat/Partial-Tutorial
+
 
 environment:
-  sdk: ">=2.15.0-268.18.beta <3.0.0"
+  sdk: ">=2.0.0 <3.0.0"
   flutter: ">=1.17.0"
 
 dependencies:
